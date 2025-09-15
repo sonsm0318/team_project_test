@@ -6,6 +6,8 @@ int main(void)
   int N; // number of array's element
 
   scanf("%d",&N); // get N;
+
+
   
   return 0;
 }
